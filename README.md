@@ -1,7 +1,7 @@
-### Buenas a todos, soy José 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-mrs&theme=nightowl&show_icons=true)
+### Hello there, I am Jose 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserisa&theme=nightowl&show_icons=true)
 <!--
-**Jose-MRS/Jose-MRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joserisa/joserisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
